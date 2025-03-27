@@ -73,6 +73,6 @@ This project was developed as part of an academic data visualization module, wit
 
 ## 📩 Contact
 
-Feel free to raise an issue or connect with me on [LinkedIn](#) if you have questions or would like to collaborate!
+Feel free to raise an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/tanmaysagarhuria/) if you have questions or would like to collaborate!
 
 ---
