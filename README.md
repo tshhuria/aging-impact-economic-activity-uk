@@ -76,7 +76,3 @@ This project was developed as part of an academic data visualization module, wit
 Feel free to raise an issue or connect with me on [LinkedIn](#) if you have questions or would like to collaborate!
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for more information.
